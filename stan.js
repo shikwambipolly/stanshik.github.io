@@ -1,6 +1,6 @@
 
 var i = 0;
-var text = "sup, i'm Stan :)";
+var text = "Hello there! I'm Stan :)";
 
 function typing() {
     if (i < text.length) {
@@ -11,7 +11,5 @@ function typing() {
 }
 
 typing();
-
-
 
 
